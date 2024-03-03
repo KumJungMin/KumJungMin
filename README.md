@@ -18,7 +18,7 @@
 
 ### 🛠  Contribution
 
-<img height="24px" src="https://img.shields.io/badge/@vue/core-docs-339933?style=flat-round&logo=Vue.js&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" />
+<a href="https://github.com/vuejs/docs"><img height="24px" src="https://img.shields.io/badge/@vue/core-docs-339933?style=flat-round&logo=Vue.js&logoColor=white" /></a> <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a>
 
 ### 🛠  Languages Frameworks Tools
 <p align="center">
