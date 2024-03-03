@@ -18,16 +18,16 @@
 
 ### 🛠  Contribution
 
-<img height="30px" src="https://img.shields.io/badge/@vue/core-docs-339933?style=flat-round&logo=Vue.js&logoColor=white" /> <img height="30px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/@vue/core-docs-339933?style=flat-round&logo=Vue.js&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" />
 
 ### 🛠  Languages Frameworks Tools
 <p align="center">
   
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,pinia,vite,vitest,jest" /><br>
-    <img src="https://skillicons.dev/icons?i=github,githubactions,mongodb,bots" /><br>
-    <img src="https://skillicons.dev/icons?i=python,django,c" /><br>
+    <img height="36px" src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript" /><br>
+    <img height="36px" src="https://skillicons.dev/icons?i=vue,react,nextjs,pinia,vite,vitest,jest" /><br>
+    <img height="36px" src="https://skillicons.dev/icons?i=github,githubactions,mongodb,bots" /><br>
+    <img height="36px" src="https://skillicons.dev/icons?i=python,django,c" /><br>
 
   </a>
 </p>
