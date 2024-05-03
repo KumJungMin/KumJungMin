@@ -16,9 +16,10 @@
 
 
 
-### 🛠  Contribution
+### 🛠  Contribution/Activity
 
-<a href="https://github.com/vuejs/docs"><img height="24px" src="https://img.shields.io/badge/@vue/core-docs-339933?style=flat-round&logo=Vue.js&logoColor=white" /></a> <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a>
+<a href="https://github.com/vuejs/docs"><img height="24px" src="https://img.shields.io/badge/@vue/core-docs-339933?style=flat-round&logo=Vue.js&logoColor=white" /></a> <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a> <a href="https://github.com/primefaces/primevue"><img height="24px" 
+ src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> 
 
 ### 🛠  Languages Frameworks Tools
 <p align="center">
