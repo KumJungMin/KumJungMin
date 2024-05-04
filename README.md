@@ -23,7 +23,7 @@
  src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> 
 
 
-**⭐️⭐️ contribution list**
+**⭐️⭐️ contribution & activity list**
 
 | library | summary | link | date |
 | --- | --- | --- | --- |
