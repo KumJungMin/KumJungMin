@@ -25,8 +25,6 @@
 
 **⭐️⭐️ contribution & activity list**
 
-### What I contribute? ⭐️
-
 | library | summary | link | date |
 | --- | --- | --- | --- |
 | <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a> | Added pnpm installation guide to documentation. | [PR](https://github.com/intlify/vue-i18n-next/pull/1676) | 24.01.06 |
