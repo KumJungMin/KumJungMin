@@ -25,6 +25,8 @@
 
 **⭐️⭐️ contribution & activity list**
 
+### What I contribute? ⭐️
+
 | library | summary | link | date |
 | --- | --- | --- | --- |
 | <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a> | Added pnpm installation guide to documentation. | [PR](https://github.com/intlify/vue-i18n-next/pull/1676) | 24.01.06 |
@@ -40,6 +42,9 @@
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> | Deleted unused parameter calendar component. | [PR](https://github.com/primefaces/primevue/pull/5688) | 24.05.03 |
 | <a href="https://github.com/ant-design/ant-design"><img height="24px" src="https://img.shields.io/badge/antdesign-antDesign-0170FE?style=flat-round&logo=antdesign&logoColor=red" /></a> | Added needConfirm option guide to timePicker description. | [PR](https://github.com/ant-design/ant-design/pull/48945) | 24.05.16 |
 |<a href="https://github.com/jshttp/mine-types"><img height="24px" src="https://img.shields.io/badge/jshttp-mineTypes-F7DF1E?style=flat-round&logo=javascript&logoColor=fff" /></a> |Added resolve method of path browser compatibility error in vite environment.|[Issue](https://github.com/jshttp/mime-types/issues/124)|24.05.17|
+| <a href="https://github.com/ant-design/ant-design"><img height="24px" src="https://img.shields.io/badge/antdesign-antDesign-0170FE?style=flat-round&logo=antdesign&logoColor=red" /></a> | Updated needConfirm option guide to datePicker description. | [PR](https://github.com/ant-design/ant-design/pull/48967) | 24.05.17 |
+| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> | I requested review PR that prevent horizontal scroll in dropdown Item | [PR](https://github.com/primefaces/primevue/pull/5758) | 24.05.18 |
+
 
 
 
