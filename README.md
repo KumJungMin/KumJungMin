@@ -20,11 +20,10 @@
 **⭐️ mainly contribution** 
 
 <a href="https://github.com/vuejs/docs"><img height="24px" src="https://img.shields.io/badge/@vue/core-docs-339933?style=flat-round&logo=Vue.js&logoColor=white" /></a> <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a> <a href="https://github.com/primefaces/primevue"><img height="24px" 
- src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  <a href="https://github.com/ant-design/ant-design"><img height="24px" src="https://img.shields.io/badge/antdesign-antDesign-0170FE?style=flat-round&logo=antdesign&logoColor=red" /></a>
-
+ src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  <a href="https://github.com/ant-design/ant-design"><img height="24px" src="https://img.shields.io/badge/antdesign-antDesign-0170FE?style=flat-round&logo=antdesign&logoColor=red" /></a> <a href="https://github.com/nextui-org/nextui"><img height="24px" src="https://img.shields.io/badge/nextuiOrg-nextui-000000?style=flat-round&logo=nextui&logoColor=fff"/></a>
 
 **⭐️⭐️ contribution & activity list**
-
+ 
 | library | summary | link | date |
 | --- | --- | --- | --- |
 | <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a> | Added pnpm installation guide to documentation. | [PR](https://github.com/intlify/vue-i18n-next/pull/1676) | 24.01.06 |
@@ -44,6 +43,8 @@
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> | I requested review PR that prevent horizontal scroll in dropdown Item | [PR](https://github.com/primefaces/primevue/pull/5758) | 24.05.18 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> | I requested review PR that allow control + c key in dateTable| [PR](https://github.com/primefaces/primevue/pull/5759) | 24.05.19 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> | I posted issue that the overlay position is not updated, after content height changed. | [Issue](https://github.com/primefaces/primevue/issues/5760) | 24.05.19 |
+| <a href="https://github.com/nextui-org/nextui"><img height="24px" src="https://img.shields.io/badge/nextuiOrg-nextui-000000?style=flat-round&logo=nextui&logoColor=fff"/></a> | I requested review PR that  prevent year, month change in showMonthAndYearPickers mode in firefox. | [PR](https://github.com/nextui-org/nextui/pull/3088) | 24.05.27 |
+
 
 
 
