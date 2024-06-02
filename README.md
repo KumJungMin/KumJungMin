@@ -23,7 +23,8 @@
  src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  <a href="https://github.com/ant-design/ant-design"><img height="24px" src="https://img.shields.io/badge/antdesign-antDesign-0170FE?style=flat-round&logo=antdesign&logoColor=red" /></a> <a href="https://github.com/nextui-org/nextui"><img height="24px" src="https://img.shields.io/badge/nextuiOrg-nextui-000000?style=flat-round&logo=nextui&logoColor=fff"/></a>
 
 **⭐️⭐️ contribution & activity list**
- 
+
+_you can show all contributon & activity list ([link](https://github.com/KumJungMin/KumJungMin/blob/main/contribution.md))_
 | library | summary | link | date |
 | --- | --- | --- | --- |
 | <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a> | Added pnpm installation guide to documentation. | [PR](https://github.com/intlify/vue-i18n-next/pull/1676) | 24.01.06 |
