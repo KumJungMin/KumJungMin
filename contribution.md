@@ -26,5 +26,8 @@
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent unblock of scroll when even one dialog is opened. | [PR](https://github.com/primefaces/primevue/pull/5854) | 24.06.08 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that keep the overlay open when event triggered from panel. | [PR](https://github.com/primefaces/primevue/pull/5858) | 24.06.10 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that apply modelValue to label, if the modelValue exist in dropdown. | [PR](https://github.com/primefaces/primevue/pull/5865) | 24.06.11 |
+| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that delete bottom borderRadius in accordion header link. | [PR](https://github.com/primefaces/primevue/pull/5872) | 24.06.12 |
+
+
 
 
