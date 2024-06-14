@@ -27,6 +27,13 @@
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that keep the overlay open when event triggered from panel. | [PR](https://github.com/primefaces/primevue/pull/5858) | 24.06.10 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that apply modelValue to label, if the modelValue exist in dropdown. | [PR](https://github.com/primefaces/primevue/pull/5865) | 24.06.11 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that delete bottom borderRadius in accordion header link. | [PR](https://github.com/primefaces/primevue/pull/5872) | 24.06.12 |
+| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that highlight range of month in monthMode. | [PR](https://github.com/primefaces/primevue/pull/5887) | 24.06.14 |
+| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that highlight range of year in yearMode. | [PR](https://github.com/primefaces/primevue/pull/5884) | 24.06.14 |
+| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that highlight range of year in yearMode. | [PR](https://github.com/primefaces/primereact/pull/6760) | 24.06.14 |
+| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that highlight range of month in monthMode. | [PR](https://github.com/primefaces/primereact/pull/6759) | 24.06.14 |
+
+
+
 
 
 
