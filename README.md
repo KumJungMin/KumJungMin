@@ -6,7 +6,6 @@
   <a href="https://mong-blog.tistory.com/">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> <a href="mailto:today.as.fresh@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </h1>
 
-<br>
 <p align="center">
   Hi, I'm Web Front Developer <br>
   💻 I love to contribute UI or Framework library for healthy world. <br>
@@ -17,10 +16,11 @@
 <br/>
 
 ### 🛠  Contribution/Activity
-**⭐️ mainly contribution** 
+**⭐️ contribution library** 
 
 <a href="https://github.com/vuejs/docs"><img height="24px" src="https://img.shields.io/badge/@vue/core-docs-339933?style=flat-round&logo=Vue.js&logoColor=white" /></a> <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a> <a href="https://github.com/primefaces/primevue"><img height="24px" 
- src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  <a href="https://github.com/ant-design/ant-design"><img height="24px" src="https://img.shields.io/badge/antdesign-antDesign-0170FE?style=flat-round&logo=antdesign&logoColor=red" /></a> <a href="https://github.com/nextui-org/nextui"><img height="24px" src="https://img.shields.io/badge/nextuiOrg-nextui-000000?style=flat-round&logo=nextui&logoColor=fff"/></a>
+ src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> <a href="https://github.com/ant-design/ant-design"><img height="24px" src="https://img.shields.io/badge/antdesign-antDesign-0170FE?style=flat-round&logo=antdesign&logoColor=red" /></a> <a href="https://github.com/nextui-org/nextui"><img height="24px" src="https://img.shields.io/badge/nextuiOrg-nextui-000000?style=flat-round&logo=nextui&logoColor=fff"/></a> <a href="https://github.com/primefaces/primereact"><img height="24px" 
+ src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>
 
 **⭐️⭐️ contribution & activity list**
 
