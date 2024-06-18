@@ -32,8 +32,7 @@
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that highlight range of year in yearMode. | [PR](https://github.com/primefaces/primereact/pull/6760) | 24.06.14 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that highlight range of month in monthMode. | [PR](https://github.com/primefaces/primereact/pull/6759) | 24.06.14 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that not dynamically update align when position is mouse. | [PR](https://github.com/primefaces/primereact/pull/6764) | 24.06.17 |
-
-
+| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that apply color in tooltip arrow. | [PR](https://github.com/primefaces/primevue/pull/5917) | 24.06.19 |
 
 
 
