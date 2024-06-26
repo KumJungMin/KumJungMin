@@ -35,7 +35,7 @@
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that apply color in tooltip arrow. | [PR](https://github.com/primefaces/primevue/pull/5917) | 24.06.19 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that apply s and b of previous hsb to hsbValue. | [PR](https://github.com/primefaces/primevue/pull/5953) | 24.06.24 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that apply s and b of previous hsb to hsbValue. | [PR](https://github.com/primefaces/primereact/pull/6788) | 24.06.24 |
-
+| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that apply year change in Calendar when input changed. | [PR](https://github.com/primefaces/primereact/pull/6794) | 24.06.26 |
 
 
 
