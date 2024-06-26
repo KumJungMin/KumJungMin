@@ -24,7 +24,6 @@
 
 **⭐️⭐️ contribution & activity list**
 
-_you can show all contributon & activity list ([link](https://github.com/KumJungMin/KumJungMin/blob/main/contribution.md))_
 | library | summary | link | date |
 | --- | --- | --- | --- |
 | <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a> | Added pnpm installation guide to documentation. | [PR](https://github.com/intlify/vue-i18n-next/pull/1676) | 24.01.06 |
@@ -45,7 +44,7 @@ _you can show all contributon & activity list ([link](https://github.com/KumJung
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that highlight range of month in monthMode. | [PR](https://github.com/primefaces/primereact/pull/6759) | 24.06.14 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that apply s and b of previous hsb to hsbValue. | [PR](https://github.com/primefaces/primereact/pull/6788) | 24.06.24 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that apply year change in Calendar when input changed. | [PR](https://github.com/primefaces/primereact/pull/6794) | 24.06.26 |
-
+|...|[show more](https://github.com/KumJungMin/KumJungMin/blob/main/contribution.md)...|...|
 
 
 
