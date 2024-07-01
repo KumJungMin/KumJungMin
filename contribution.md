@@ -39,6 +39,9 @@
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that highlight range of month in MonthMode of Calendar. | [PR](https://github.com/primefaces/primevue/pull/5987) | 24.06.28 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that highlight range of year in yearMode of Calendar. | [PR](https://github.com/primefaces/primevue/pull/5988) | 24.06.28 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that change undecleared value to modelvalue in isYearSelected. | [PR](https://github.com/primefaces/primevue/pull/5986) | 24.06.28 |
+| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that add null check condition in getOptionValue(Dropdown). | [PR](https://github.com/primefaces/primereact/pull/6807) | 24.07.01 |
+
+
 
 
 
