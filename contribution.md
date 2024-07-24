@@ -43,4 +43,8 @@
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that change the order of applying default values to props(OrderList). | [PR](https://github.com/primefaces/primereact/pull/6879) | 24.07.13 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that hide clear button when options is empty in Dropdown. | [PR](https://github.com/primefaces/primereact/pull/6880) | 24.07.13 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that allow to type the end date equal to the start date in DatePicker. | [PR](https://github.com/primefaces/primevue/pull/6082) | 24.07.18 |
+| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that modify it to allow the end date to be the same as the start date. | [PR](https://github.com/primefaces/primereact/pull/6919) | 24.07.24 |
+
+
+
 
