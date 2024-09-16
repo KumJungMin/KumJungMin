@@ -27,6 +27,7 @@
 
 | library | summary | link | date |
 | --- | --- | --- | --- |
+| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that trigger remove chip event when the chip is visible. | [PR](https://github.com/primefaces/primereact/pull/7193) | 24.07.17 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that emit unmask value to update:modelValue when unmask mode. | [PR](https://github.com/primefaces/primevue/pull/6407) | 24.09.16 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent onselect event when prev, next calendar button in Calendar. | [PR](https://github.com/primefaces/primereact/pull/7155) | 24.09.10 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested a review for a PR that modifies the click event handling by using event.currentTarget to prevent clicks on slot children. | [PR](https://github.com/primefaces/primevue/pull/6333) | 24.09.04 |
@@ -38,7 +39,6 @@
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that add rowcheckboxicon slot name in BodyCell. | [PR](https://github.com/primefaces/primevue/pull/6131) | 24.07.28 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that modify it to reset the isOverlayClicked value after overlayVisibleState is set to false. | [PR](https://github.com/primefaces/primereact/pull/6921) | 24.07.24 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that modify it to allow the end date to be the same as the start date. | [PR](https://github.com/primefaces/primereact/pull/6919) | 24.07.24 |
-| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that allow to type the end date equal to the start date in DatePicker. | [PR](https://github.com/primefaces/primevue/pull/6082) | 24.07.18 |
 |...|[show more](https://github.com/KumJungMin/KumJungMin/blob/main/contribution.md)...|...|
 
 
