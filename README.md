@@ -26,8 +26,12 @@
 
 
 
+
+
+
 | library | summary | link | date |
 | --- | --- | --- | --- |
+| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that pass option object value to selectItem when optionValue is set in Dropdown. | [PR](https://github.com/primefaces/primereact/pull/7327) | 24.10.11 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent rowClick trigger when button clicked. | [PR](https://github.com/primefaces/primevue/pull/6544) | 24.10.09 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent event bubbling when dropdown click in Dropdown. | [PR](https://github.com/primefaces/primereact/pull/7317) | 24.10.08 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that add resolve $el undefined error  in Select. | [PR](https://github.com/primefaces/primevue/pull/6541) | 24.10.08 |
@@ -40,7 +44,6 @@
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent onselect event when prev, next calendar button in Calendar. | [PR](https://github.com/primefaces/primereact/pull/7155) | 24.09.10 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested a review for a PR that modifies the click event handling by using event.currentTarget to prevent clicks on slot children. | [PR](https://github.com/primefaces/primevue/pull/6333) | 24.09.04 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that apply bottom border width in dataTable footer. | [PR](https://github.com/primefaces/primereact-sass-theme/pull/79) | 24.09.01 |
-| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that allow zero value using nullish coalescing operator(Slider). | [PR](https://github.com/primefaces/primereact/pull/7079) | 24.08.24 |
 |...|[show more](https://github.com/KumJungMin/KumJungMin/blob/main/contribution.md)...|...|
 
 
