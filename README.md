@@ -26,6 +26,7 @@
 
 | library | summary | link | date |
 | --- | --- | --- | --- |
+| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent selection when selectable is set to false (checkbox mode) in TreeTable. | [PR](https://github.com/primefaces/primevue/pull/6816) | 24.11.25 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that resolve iconPosition props warning in AutoComplete. | [PR](https://github.com/primefaces/primereact/pull/7447) | 24.11.23 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that change controlled condition in BaseEditableHolder for datePicker. | [PR](https://github.com/primefaces/primevue/pull/6816) | 24.11.19 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that add highlight for rows selected with checkbox in TreeTable. | [PR](https://github.com/primefaces/primereact/pull/7406) | 24.11.11 |
@@ -38,7 +39,6 @@
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that pass option object value to selectItem when optionValue is set in Dropdown. | [PR](https://github.com/primefaces/primereact/pull/7327) | 24.10.11 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent rowClick trigger when button clicked. | [PR](https://github.com/primefaces/primevue/pull/6544) | 24.10.09 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent event bubbling when dropdown click in Dropdown. | [PR](https://github.com/primefaces/primereact/pull/7317) | 24.10.08 |
-| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that add resolve $el undefined error  in Select. | [PR](https://github.com/primefaces/primevue/pull/6541) | 24.10.08 |
 |...|[show more](https://github.com/KumJungMin/KumJungMin/blob/main/contribution.md)...|...|
 
 
