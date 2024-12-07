@@ -23,9 +23,9 @@
  src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>
 
 **⭐️⭐️ contribution & activity list**
-
 | library | summary | link | date |
 | --- | --- | --- | --- |
+| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that onFilter function to use functional updates in TreeTable. | [PR](https://github.com/primefaces/primereact/pull/7486) | 24.12.07 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that update tabIndex when targetRow exists in DataTable. | [PR](https://github.com/primefaces/primevue/pull/6920) | 24.12.04 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that allow autoplay when value has valid count in Carousel. | [PR](https://github.com/primefaces/primevue/pull/6902) | 24.12.01 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent selection when selectable is set to false (checkbox mode) in TreeTable. | [PR](https://github.com/primefaces/primevue/pull/6855) | 24.11.25 |
@@ -37,8 +37,6 @@
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that pass autoResize props to inner component  in Mention. | [PR](https://github.com/primefaces/primereact/pull/7374) | 24.10.26 |
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that fix autoResize issue with v-show by implementing ResizeObserver. | [PR](https://github.com/primefaces/primevue/pull/6630) | 24.10.23 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that optimize handling of grouped options by flattening structure in Multiselect. | [PR](https://github.com/primefaces/primereact/pull/7357) | 24.10.19 |
-| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that ensure correct popup positioning by setting target only when empty in comfirmPopup. | [PR](https://github.com/primefaces/primevue/pull/6591) | 24.10.16 |
-| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that pass option object value to selectItem when optionValue is set in Dropdown. | [PR](https://github.com/primefaces/primereact/pull/7327) | 24.10.11 |
 |...|[show more](https://github.com/KumJungMin/KumJungMin/blob/main/contribution.md)...|...|
 
 
