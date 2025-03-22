@@ -27,6 +27,7 @@
 **⭐️⭐️ contribution & activity list**
 | library | summary | link | date |
 | --- | --- | --- | --- |
+| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that align Delete key behavior with Backspace in InputOtp. | [PR](https://github.com/primefaces/primereact/pull/7810) | 25.03.22 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that bind value prop to input value attribute in Checkbox. | [PR](https://github.com/primefaces/primereact/pull/7789) | 25.03.16 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that fix onValueChange to return latest sorted data in TreeTable. | [PR](https://github.com/primefaces/primereact/pull/7767) | 25.03.09 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that update selectedItem when props.value changed in AutoComplete. | [PR](https://github.com/primefaces/primereact/pull/7751) | 25.03.03 |
@@ -37,7 +38,6 @@
 | <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that resolve passthrough props not passed to child components in Menubar. | [PR](https://github.com/primefaces/primevue/pull/7146) | 25.01.25 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that refine condition for determining item groups in createItem function in MultiSelect. | [PR](https://github.com/primefaces/primereact/pull/7620) | 25.01.18 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that resolve invalid date error in validateDate function in Calendar. | [PR](https://github.com/primefaces/primereact/pull/7582) | 25.01.08 |
-| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that not trigger onViewDateSelect when input typing. | [PR](https://github.com/primefaces/primereact/pull/7563) | 25.01.04 |
 |...|[show more](https://github.com/KumJungMin/KumJungMin/blob/main/contribution.md)...|...|
 
 
