@@ -1,7 +1,4 @@
 <h1 align="center">
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&weight=500&pause=1000&color=F700F6&center=true&random=false&width=435&lines=Hi%2C+I'm+Lux+%F0%9F%8C%A0" alt="Typing SVG" />
- </a>
 
   <a href="https://mong-blog.tistory.com/">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> <a href="mailto:today.as.fresh@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </h1>
