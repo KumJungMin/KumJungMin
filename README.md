@@ -24,6 +24,7 @@
 **⭐️⭐️ contribution & activity list**
 | library | summary | link | date |
 | --- | --- | --- | --- |
+| <a href="https://github.com/primefaces/primevue"><img height="24px" src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> | I requested review PR that keep scroll blocked until all dialogs are closed in DynamicDialog. | [PR](https://github.com/primefaces/primevue/pull/7671) | 25.05.05 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that ensure transition enter lifecycle runs on first render in Galleria. | [PR](https://github.com/primefaces/primereact/pull/7944) | 25.04.28 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent Event Misbehavior When Clicking Chip Delete Button Inside Menu. | [PR](https://github.com/primefaces/primereact/pull/7924) | 25.04.21 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that set element value to '' when props.value is empty (null, undefined, '') in InputMask. | [PR](https://github.com/primefaces/primereact/pull/7897) | 25.04.13 |
@@ -34,7 +35,6 @@
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that fix onValueChange to return latest sorted data in TreeTable. | [PR](https://github.com/primefaces/primereact/pull/7767) | 25.03.09 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that update selectedItem when props.value changed in AutoComplete. | [PR](https://github.com/primefaces/primereact/pull/7751) | 25.03.03 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent point event on p-ink class in Picklist. | [PR](https://github.com/primefaces/primereact/pull/7727) | 25.02.22 |
-| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that replace invalid date with a valid one in event in Calendar. | [PR](https://github.com/primefaces/primereact/pull/7701) | 25.02.14 |
 |...|[show more](https://github.com/KumJungMin/KumJungMin/blob/main/contribution.md)...|...|
 
 
