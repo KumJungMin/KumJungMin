@@ -102,5 +102,6 @@
 | <a href="https://github.com/heroui-inc/heroui"><img height="24px" src="https://img.shields.io/badge/herouiInc-heroui-000000?style=flat-round&logo=nextui&logoColor=fff" /></a> | I requested review PR that prevent duplicate toasts when multiple providers are declared in toast. | [PR](https://github.com/heroui-inc/heroui/pull/5590) | 25.08 |
 | <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that restore dismissable outside click with disabled CSS transition in OverlayPanel. | [PR](https://github.com/primefaces/primereact/pull/8255) | 25.08 |
 | <a href="https://github.com/heroui-inc/heroui"><img height="24px" src="https://img.shields.io/badge/herouiInc-heroui-000000?style=flat-round&logo=nextui&logoColor=fff" /></a> | I requested review PR that allow inheriting labelPlacement from HeroUIProvider | [PR](https://github.com/heroui-inc/heroui/issues/5866) | 25.10 |
+| <a href="https://github.com/heroui-inc/heroui"><img height="24px" src="https://img.shields.io/badge/herouiInc-heroui-000000?style=flat-round&logo=nextui&logoColor=fff" /></a> | I requested review PR that prevent option focus from start/end content slots in listbox | [PR](https://github.com/heroui-inc/heroui/issues/6060) | 25.12 |
 
 
