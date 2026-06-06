@@ -29,16 +29,20 @@
 | <a href="https://github.com/heroui-inc/heroui"><img height="24px" src="https://img.shields.io/badge/herouiInc-heroui-000000?style=flat-round&logo=nextui&logoColor=fff" /></a> | I requested review PR that prevent duplicate toasts when multiple providers are declared in toast. | [PR](https://github.com/heroui-inc/heroui/pull/5590) | 25.08 |
 | <a href="https://github.com/heroui-inc/heroui"><img height="24px" src="https://img.shields.io/badge/herouiInc-heroui-000000?style=flat-round&logo=nextui&logoColor=fff" /></a> | I contributed to the reported issue by identifying the root cause and suggesting a fix. | [Issue](https://github.com/heroui-inc/heroui/issues/5067) | 25.06 |
 | <a href="https://github.com/heroui-inc/heroui"><img height="24px" src="https://img.shields.io/badge/herouiInc-heroui-000000?style=flat-round&logo=nextui&logoColor=fff" /></a> | I requested review PR that ensure focused item matches selected item after filter, selection in autocomplete. | [PR](https://github.com/heroui-inc/heroui/pull/5290) | 25.05 |
-| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that ensure transition enter lifecycle runs on first render in Galleria. | [PR](https://github.com/primefaces/primereact/pull/7944) | 25.04 |
-| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent Event Misbehavior When Clicking Chip Delete Button Inside Menu. | [PR](https://github.com/primefaces/primereact/pull/7924) | 25.04 |
-| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that set element value to '' when props.value is empty (null, undefined, '') in InputMask. | [PR](https://github.com/primefaces/primereact/pull/7897) | 25.04 |
-| <a href="https://github.com/primefaces/primereact"><img height="24px" src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>  | I requested review PR that prevent item selection on Escape key press in Dropdown. | [PR](https://github.com/primefaces/primereact/pull/7863) | 25.04 |
 |...|[show more](https://github.com/KumJungMin/KumJungMin/blob/main/contribution.md)...|...|
 
 
 
 
 
+
+<br/>
+
+### 📦  My Library
+
+| library | summary | link |
+| --- | --- | --- |
+| <a href="https://github.com/KumJungMin/eslint-vue-setup-order"><img height="24px" src="https://img.shields.io/badge/eslint--vue--setup--order-Vue%203%20ESLint-42b883?style=flat-round&logo=eslint&logoColor=white" /></a> | ESLint custom rule library that enforces a consistent declaration order inside Vue 3 `<script setup>`. It supports section ordering, lifecycle ordering, and group separation for better code readability. | [GitHub](https://github.com/KumJungMin/eslint-vue-setup-order) |
 
 <br/>
 
