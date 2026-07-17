@@ -15,12 +15,13 @@
 
 <a href="https://github.com/vuejs/docs"><img height="24px" src="https://img.shields.io/badge/@vue/core-docs-339933?style=flat-round&logo=Vue.js&logoColor=white" /></a> <a href="https://github.com/intlify/vue-i18n-next"><img height="24px" src="https://img.shields.io/badge/vue-i18next-F05138?style=flat-round&logo=i18next&logoColor=white" /></a> <a href="https://github.com/primefaces/primevue"><img height="24px" 
  src="https://img.shields.io/badge/primefaces-primeVue-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> <a href="https://github.com/ant-design/ant-design"><img height="24px" src="https://img.shields.io/badge/antdesign-antDesign-0170FE?style=flat-round&logo=antdesign&logoColor=red" /></a> <a href="https://github.com/nextui-org/nextui"><img height="24px" src="https://img.shields.io/badge/nextuiOrg-nextui-000000?style=flat-round&logo=nextui&logoColor=fff"/></a> <a href="https://github.com/primefaces/primereact"><img height="24px" 
- src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a>
+ src="https://img.shields.io/badge/primefaces-primeReact-de8eca?style=flat-round&logo=rubocop&logoColor=94b0e4" /></a> <a href="https://github.com/eslint/markdown"><img height="24px" src="https://img.shields.io/badge/eslint-markdown-4B32C3?style=flat-round&logo=eslint&logoColor=fff"/></a>
 
 
 **⭐️⭐️ contribution & activity list**
 | library | summary | link | date |
 | --- | --- | --- | --- |
+| <a href="https://github.com/eslint/markdown"><img height="24px" src="https://img.shields.io/badge/eslint-markdown-4B32C3?style=flat-round&logo=eslint&logoColor=fff"/></a>| I requested review PR that updates the installation instructions to clarify the required peer dependency. | [PR](https://github.com/eslint/markdown/pull/685) | 26.07 |
 | <a href="https://github.com/heroui-inc/heroui"><img height="24px" src="https://img.shields.io/badge/herouiInc-heroui-000000?style=flat-round&logo=nextui&logoColor=fff" /></a> | I requested review PR that prevent translate-induced crash on pending changes | [PR](https://github.com/heroui-inc/heroui/issues/6590) | 26.05 |
 | <a href="https://github.com/heroui-inc/heroui"><img height="24px" src="https://img.shields.io/badge/herouiInc-heroui-000000?style=flat-round&logo=nextui&logoColor=fff" /></a> | I requested review PR that remove duplicated press event handlers in listbox | [PR](https://github.com/heroui-inc/heroui/issues/6314) | 26.03 |
 | <a href="https://github.com/heroui-inc/heroui"><img height="24px" src="https://img.shields.io/badge/herouiInc-heroui-000000?style=flat-round&logo=nextui&logoColor=fff" /></a> | I requested review PR that prevent option focus from start/end content slots in listbox | [PR](https://github.com/heroui-inc/heroui/issues/6060) | 25.12 |
